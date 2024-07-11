@@ -58,13 +58,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           
-          outputs: dist/github-contribution-grid-snake-dark-arthur_V0.0.1.svg?palette=github-dark&snake_size=7&color_dots= ${{ steps.set_dots_color.outputs.dots_color }}&speed=${{ steps.set_snake_speed.outputs.speed }}&dot_shape=circle&color_snake=${{ steps.set_snake_color.outputs.color }}&hide_stack=true
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark&snake_size=7&color_dots= ${{ steps.set_dots_color.outputs.dots_color }}&speed=${{ steps.set_snake_speed.outputs.speed }}&dot_shape=circle&color_snake=${{ steps.set_snake_color.outputs.color }}&hide_stack=true
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output-arthur_V0.0.1
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
