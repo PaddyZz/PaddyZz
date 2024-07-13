@@ -7,6 +7,6 @@
 </picture>
 (Referenced from Paltane/snk & ArthurLobo/snk & nuhkoca's github contribution chart  
 
-  please take a check out at my repo [PaddyZz/snk]([http://example.com](https://github.com/PaddyZz/snk/blob/main/README.md)) if you interested in that and expect the snk with larger body length
+  please take a check out at my repo [PaddyZz/snk]([http://example.com](https://github.com/PaddyZz/snk/blob/main/README.md) if you interested in that and expect the snk with larger body length
 )
 
