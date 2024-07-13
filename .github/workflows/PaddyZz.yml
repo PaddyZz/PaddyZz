@@ -35,7 +35,7 @@ jobs:
 
       - name: Set snake size
         id: set_snake_size
-        run: echo "::set-output name=size::$(shuf -n 1 -e '1' '2' '3' '4' '5' '6' '7')"
+        run: echo "::set-output name=size::$(shuf -n 1 -e  '3' '4')"
         
       - name: Set dots shape  
         id: set_dots_shape
@@ -58,7 +58,7 @@ jobs:
           github_user_name: nuhkoca  
           
           
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark&snake_size=3&color_dots= ${{ steps.set_dots_color.outputs.dots_color }}&speed=fast&dot_shape=circle&color_snake=${{ steps.set_snake_color.outputs.color }}&hide_stack=true
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark&snake_size=${{ steps.set_snake_size.outputs.size }}&color_dots= ${{ steps.set_dots_color.outputs.dots_color }}&speed=fast&dot_shape=${{ steps.set_dots_shape.outputs.shape }}&color_snake=${{ steps.set_snake_color.outputs.color }}&hide_stack=true
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
