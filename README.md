@@ -24,7 +24,7 @@ Just coding, coding and coding!
  <img>
 </picture>
 (There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on typescript and GitHub Actions Workflow.
-  Please take a look at my repo [PaddyZz/snk](https://github.com/PaddyZz/snk/blob/main/README.md) for longer snk body length.
+  Please take a look at my repo ['PaddyZz/snk'](https://github.com/PaddyZz/snk/blob/main/README.md) for longer snk body length.
   Referenced from Paltane/snk & ArthurLobo/snk & nuhkoca's github contribution chart 
 )
 
