@@ -16,9 +16,9 @@
 <img src="/svg/1.gif" alt="Alt text" width="300" height="200"> <br>
 <br>
 Just coding, coding and coding!
-<br>
-<picture>
-  
+
+
+<picture>  
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/PaddyZz/output/github-contribution-grid-snake-dark.svg" />
  <img>
 </picture>
