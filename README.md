@@ -8,7 +8,7 @@
 • [Time Series Forecasting LSTM]() <br>
 • [Deploy Model to Kubeflow]() <br>
 • [Neural Style Transfer Vgg19]() <br>
-• [Deploy Model to AWS Sagemaker]() <br>
+• [Deploy Model to AWS Sagemaker](wwwww) <br>
 • [Neural Machine Translate]() <br>
 <br>
 **Coding Attitudes Quotes：** <br>
@@ -25,7 +25,7 @@ Just coding, coding and coding!
 </picture>
 (There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on typescript and GitHub Actions Workflow.
   Please take a look at my repo 
-[https://github.com/yourusername/PaddyZzsnk](paddysnk)
+[Neural Machine Translate]() <br>
   for longer snk body length.
   Referenced from Paltane/snk & ArthurLobo/snk & nuhkoca's github contribution chart 
 )
