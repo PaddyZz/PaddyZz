@@ -15,7 +15,8 @@
 **Coding Attitudes Quotes:** <br>
 
 <br>
-<img src="/svg/1.gif" alt="Alt text" width="300" height="200"> 
+<img src="https://cdn.jsdelivr.net/gh/paddyzz/paddyzz/svg/1.gif" alt="Alt text" width="300" height="200">
+<!--<img src="/svg/1.gif" alt="Alt text" width="300" height="200"> -->
 Just coding, coding and coding! :)
 
 
