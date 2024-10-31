@@ -9,7 +9,7 @@
 • [Deploy Model to Kubeflow](https://paddyzz.github.io/projects/Config_Kubeflow/) <br>
 • [Neural Style Transfer Vgg19](https://paddyzz.github.io/projects/neural_style_transfer/) <br>
 • [Deploy Model to AWS Sagemaker](https://paddyzz.github.io/projects/Config_Sagemaker) <br>
-• [Neural Machine Translate](https://paddyzz.github.io/projects/neural_machine_translate) <br>
+• [Neural Machine Translation Transformer](https://paddyzz.github.io/projects/neural_machine_translation) <br>
 <br>
 **Coding Attitudes Quotes：** <br>
 <br>
