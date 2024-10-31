@@ -5,6 +5,7 @@
 • I enjoy bike-riding and stargazing. <br>
 <!--<img  align="left" src="3.svg" alt="Alt text" width="250" height="150"> -->
 **Recent Projects post:** <br>
+
 • [Time Series Forecasting LSTM](https://paddyzz.github.io/projects/time_series_forecasting) <br>
 • [Deploy Model to Kubeflow](https://paddyzz.github.io/projects/Config_Kubeflow/) <br>
 • [Neural Style Transfer Vgg19](https://paddyzz.github.io/projects/neural_style_transfer/) <br>
@@ -12,6 +13,7 @@
 • [Neural Machine Translation Transformer](https://paddyzz.github.io/projects/neural_machine_translation) <br>
 <br>
 **Coding Attitudes Quotes：** <br>
+
 <br>
 <img src="/svg/1.gif" alt="Alt text" width="300" height="200"> <br>
 <br>
