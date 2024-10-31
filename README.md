@@ -7,7 +7,7 @@
 **Recent Projects post:** <br>
 • [Time Series Forecasting LSTM]() <br>
 • [Deploy Model to Kubeflow]() <br>
-• [Neural Style Transfer Vgg19]() <br>
+• [Neural Style Transfer Vgg19](https://paddyzz.github.io/projects/neural_style_transfer/) <br>
 • [Deploy Model to AWS Sagemaker](wwwww) <br>
 • [Neural Machine Translate]() <br>
 <br>
@@ -23,7 +23,7 @@ Just coding, coding and coding!
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/PaddyZz/output/github-contribution-grid-snake-dark.svg" />
  <img>
 </picture>
-There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on typescript and GitHub Actions Workflow.
-  Please take a look at my repo [PaddyZzSnk]() for longer snk body length.
-  Referenced from [Paltane/snk](https://github.com/Platane/snk) & ArthurLobo/snk & nuhkoca's github contribution chart 
+• There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on typescript and GitHub Actions Workflow.
+• Please take a look at my repo PaddyZz/snk for longer snk body length if you're interested.
+• Referenced from Paltane/snk & ArthurLobo/snk & nuhkoca's github contribution chart 
 
