@@ -16,7 +16,7 @@
 
 <br>
 <img src="/svg/1.gif" alt="Alt text" width="300" height="200"> 
-Just coding, coding and coding!
+Just coding, coding and coding! :)
 
 
 
