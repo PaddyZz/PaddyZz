@@ -15,8 +15,7 @@
 **Coding Attitudes Quotes：** <br>
 
 <br>
-<img src="/svg/1.gif" alt="Alt text" width="300" height="200"> <br>
-<br>
+<img src="/svg/1.gif" alt="Alt text" width="300" height="200"> 
 Just coding, coding and coding!
 
 
@@ -25,7 +24,10 @@ Just coding, coding and coding!
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/PaddyZz/output/github-contribution-grid-snake-dark.svg" />
  <img>
 </picture>
-• There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on typescript and GitHub Actions Workflow.
+
+• There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on TypeScript and GitHub Actions Workflow.
+
 • Please take a look at my repo PaddyZz/snk for longer snk body length if you're interested.
+
 • Referenced from Paltane/snk & ArthurLobo/snk & nuhkoca's github contribution chart 
 
