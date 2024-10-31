@@ -23,8 +23,7 @@ Just coding, coding and coding!
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/PaddyZz/output/github-contribution-grid-snake-dark.svg" />
  <img>
 </picture>
-(There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on typescript and GitHub Actions Workflow.
+There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on typescript and GitHub Actions Workflow.
   Please take a look at my repo [PaddyZzSnk]() for longer snk body length.
   Referenced from [Paltane/snk](https://github.com/Platane/snk) & ArthurLobo/snk & nuhkoca's github contribution chart 
-)
 
