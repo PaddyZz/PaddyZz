@@ -23,7 +23,7 @@ Just coding, coding and coding! :)
 
 <picture>  
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaddyZz/PaddyZz/output/github-contribution-grid-snake-dark.svg" />
- <img>
+ <img src="https://raw.githubusercontent.com/PaddyZz/PaddyZz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution" />
 </picture>
 
 • There is also an interesting GitHub open source snk project, utilising the user's contribution grid as a map for snk to move, based on TypeScript and GitHub Actions Workflow.
